@@ -1,0 +1,23 @@
+
+ #message{
+    padding: 20px;
+    margin: 30px;
+} 
+#section1 {
+    display: flex;
+    flex-direction: row;
+}
+#firstArticle{
+    border: solid red ;
+    margin: 30px;
+    padding: 20px ; 
+    width: 50% ;
+    text-overflow: hidden;
+}
+#secondArticle{
+    border: solid green ;
+    margin: 30px;
+    padding: 20px ; 
+    width: 50% ;
+    text-overflow: '';
+} 
